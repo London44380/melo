@@ -2,6 +2,8 @@
 
 Parcourt un ou plusieurs sites web et en extrait toutes les adresses email trouvées.
 
+![Démo : page de test locale, données fictives](docs/demo.gif)
+
 ## Prérequis
 ```
 pip install requests
