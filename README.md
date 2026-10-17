@@ -1,6 +1,7 @@
 # melo — Mail Extractor Locator
 
 Parcourt un ou plusieurs sites web et en extrait toutes les adresses email trouvées.
+*Crawls one or more websites and extracts every email address found.*
 
 ![Démo : page de test locale, données fictives](docs/demo.gif)
 
